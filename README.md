@@ -2,9 +2,9 @@
 
 I'm Eduardo, a 22-year-old Computer Science and Engineering graduate, currently writing my MSc dissertation at Instituto Superior Técnico!
 
-I'm developing an online multiplayer chess game in Go using WebSockets. Ever since I built an API with its toolchain, I've been hooked on the language.
+I'm currently working on an online multiplayer chess game in Go using WebSockets. Ever since I built an API with its toolchain, I've been hooked on the language.
 
-🔭 I'm currently on the look out for a backend web development role, preferably working with Go, Python, or Java. If you're hiring, let's chat!
+🔭 I'm also on the look out for a backend web development role, preferably working with Go, Python, or Java. If you're hiring, let's chat!
 
 ## Programming Languages
 
